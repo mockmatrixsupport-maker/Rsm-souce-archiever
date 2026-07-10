@@ -1,5 +1,5 @@
 {
-  "name": "rsm-source-archiver",
+  "name": "rsm-souce-archiever",
   "main": "source-archiver-worker.js",
   "compatibility_date": "2026-01-01",
   "kv_namespaces": [
