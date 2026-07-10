@@ -3,7 +3,7 @@
   "main": "source-archiver-worker.js",
   "compatibility_date": "2026-01-01",
   "kv_namespaces": [
-    { "binding": "SRC_KV", "id": "YOUR_KV_NAMESPACE_ID" }
+    { "binding": "SRC_KV", "id": "10778bfaae2e4a3984e05f0a36ae8e66" }
   ],
   "vars": {
     "GH_OWNER": "mockmatrixsupport-maker",
