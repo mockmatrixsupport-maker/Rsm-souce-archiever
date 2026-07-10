@@ -6,8 +6,8 @@
     { "binding": "SRC_KV", "id": "YOUR_KV_NAMESPACE_ID" }
   ],
   "vars": {
-    "GH_OWNER": "your-github-username",
-    "GH_REPO": "your-source-html-repo",
+    "GH_OWNER": "mockmatrixsupport-maker",
+    "GH_REPO": "Rsm-souce-archiever",
     "GH_BRANCH": "main"
   }
 }
