@@ -7,7 +7,7 @@
   ],
   "vars": {
     "GH_OWNER": "mockmatrixsupport-maker",
-    "GH_REPO": "Rsm-souce-archiever",
+    "GH_REPO": "RSM-DATABSE",
     "GH_BRANCH": "main"
   }
 }
