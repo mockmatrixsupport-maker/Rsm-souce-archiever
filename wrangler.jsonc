@@ -1,0 +1,13 @@
+{
+  "name": "rsm-source-archiver",
+  "main": "source-archiver-worker.js",
+  "compatibility_date": "2026-01-01",
+  "kv_namespaces": [
+    { "binding": "SRC_KV", "id": "YOUR_KV_NAMESPACE_ID" }
+  ],
+  "vars": {
+    "GH_OWNER": "your-github-username",
+    "GH_REPO": "your-source-html-repo",
+    "GH_BRANCH": "main"
+  }
+}
